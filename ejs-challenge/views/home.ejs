@@ -5,4 +5,9 @@
 
 <p> <%= startingParagraph %>  </p>
 
+<%  for(let i = 0; i < paragraph.length; i++){ %>
+    <h1> <%= paragraph[i].title  %>  </h1>
+    <p> <%= paragraph[i].body %>  </p>
+<% } %>
+
 <%- include('partials/footer') -%> 
