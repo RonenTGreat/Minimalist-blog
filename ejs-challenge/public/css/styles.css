@@ -15,6 +15,9 @@
     color: #1abc9c !important;
 }
 
+h1, label{
+    color: #1abc9c;
+}
 .compose{
     font-size: 2.5rem;
 }
