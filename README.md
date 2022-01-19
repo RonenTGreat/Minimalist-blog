@@ -1,4 +1,4 @@
-# EJS-Challenge-Starting-Files
+# Minimalist Blog
 
 ## Overview
 
@@ -30,4 +30,4 @@ $ node app.js
 ```
 
 ## How it looks
-[![Watch the video](preview\picture.png)](\preview\DailyJournal.mp4)
+[![Watch the video](preview/picture.png)](/preview/DailyJournal.mp4)
