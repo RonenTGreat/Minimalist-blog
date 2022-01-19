@@ -1,0 +1,34 @@
+<%- include('partials/header') -%> 
+
+
+<h1>Contact</h1>
+
+<p> <%= contactParagraph %>  </p>
+
+<form>
+  <div class="form-group">
+    <label for="">First Name</label>
+    <input type="text"  class="form-control" />
+
+    <label for="">Last Name</label>
+    <input type="text"  class="form-control" />
+
+    <label for="">Subject</label>
+    <input type="text"  class="form-control" />
+
+    <label for="">Email</label>
+    <input type="email"  class="form-control" />
+
+    <label for="">Message</label>
+    <textarea
+      class="form-control"
+      cols="5"
+      rows="3"
+    ></textarea>
+
+  </div>
+  <button type="submit" class="btn btn-primary">Send</button>
+
+</form>
+
+<%- include('partials/footer') -%> 
