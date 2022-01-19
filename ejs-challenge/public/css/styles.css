@@ -15,6 +15,10 @@
     color: #1abc9c !important;
 }
 
+.compose{
+    font-size: 2.5rem;
+}
+
 .footer-padding {
 	padding-bottom: 60px;
 }
