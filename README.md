@@ -2,7 +2,7 @@
 
 ## Overview
 
-A minimalist blog site using EJS, Node/Express.
+A minimalist blog site.
 
 ## Installation
 
@@ -32,6 +32,14 @@ $ npm i
 ```bash
 $ node app.js
 ```
+
+## Built With
+
+- HTML
+- CSS
+- EJS
+- Node/Express
+- MongoDB/Mongoose
 
 ## How it looks
 [![Watch the video](preview/picture.png)](/preview/DailyJournal.mp4)
